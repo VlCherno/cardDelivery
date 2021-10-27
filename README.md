@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/github/webhook?id=7th67svsthiow6ul?svg=true)](https://ci.appveyor.com/project/VlCherno/cardDelivery)
+[![Build status](https://ci.appveyor.com/api/projects/status/iw18i7xakjpnm5vh?svg=true)](https://ci.appveyor.com/project/VlCherno/carddelivery-tfxys)
 # Домашнее задание к занятию «2.3. Patterns»
 ## Задача №1 - Заказ доставки карты (изменение даты)
 
